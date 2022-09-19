@@ -4,9 +4,12 @@ I think I know that. You are looking and curious about mine projects and interes
 Here you go:
  - Passionate and technology lover DevOps engineer.
  - 🔭 I’m currently working on Docker clusters and ansible automation.
- - 👯 I’m looking to collaborate on with @atakanady.
+ - 👯 I’m looking to collaborate with @atakanady.
  - Feel free to request commits I'll look for it.
- - https://github.com/Stuckinrecoverymode
+<p align="center">
+	<a href="https://github.com/Stuckinrecoverymode">
+		<img src="https://komarev.com/ghpvc/?username=Stuckinrecoverymode&label=Profile%20views&color=0e75b6&style=flat" alt="Stuckinrecoverymode" />
+	</a>
  - 
  ### Languages And Tools
  
