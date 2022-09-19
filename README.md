@@ -1,5 +1,15 @@
 ### Hi there 👋
-
+WOW, Wait, Are you looking for something, you miss or forget something. Hmm,
+I think I know that. You are looking and curious about mine projects and interests.
+Here you go:
+ - Passionate and technology lover DevOps engineer.
+ - 🔭 I’m currently working on Docker clusters and ansible automation.
+ - 👯 I’m looking to collaborate on with @atakanady.
+ - Feel free to request commits I'll look for it.
+ - https://github.com/Stuckinrecoverymode
+ - 
+ ### Languages And Tools
+ 
 <!--
 **Stuckinrecoverymode/Stuckinrecoverymode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
