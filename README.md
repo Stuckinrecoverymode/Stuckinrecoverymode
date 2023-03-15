@@ -2,13 +2,13 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </a>
 
-# Jr DevOps Engineer
+# DevOps Engineer && Cloud Native Developer
 
 WOW, Wait, Are you looking for something, you miss or forget something. Hmm,
 I think I know that. You are looking and curious about mine projects and interests.
 There you go:
  - Passionate and technology lover DevOps engineer.
- - 🔭 I’m currently working on Docker clusters and ansible automation.
+ - 🔭 I’m currently working on Kubernetes clusters and ansible automation.
  - 👯 I’m looking to collaborate with Atakan Adiyaman.
  - Feel free to request commits I'll look for it.
 
