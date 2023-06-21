@@ -3,18 +3,14 @@
 </a>
 
 # DevOps Engineer && Cloud Native Developer
-
-WOW, Wait, Are you looking for something, you miss or forget something. Hmm,
-I think I know that. You are looking and curious about mine projects and interests.
-There you go:
  - Passionate and technology lover DevOps engineer.
  - 🔭 I’m currently working on Kubernetes clusters and ansible automation.
  - 👯 I’m looking to collaborate with Atakan Adiyaman.
- - Feel free to request commits I'll look for it.
+ - I'm able to implement complex and efficient systems on Multi-Cloud Envs.
 
 
 
 ##
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stuckinrecoverymode&show_icons=true&theme=radical&locale=en&layout=compact" width="44%" alt="stuckinrecoverymode" /></p>
-<p>&nbsp;<img align="rigt" src="https://github-readme-stats.vercel.app/api?username=stuckinrecoverymode&show_icons=true&theme=radical" alt="stuckinrecoverymode" width="53%" /></p>
+<p><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=stuckinrecoverymode&show_icons=true&theme=radical&locale=en&layout=compact" width="44%" alt="stuckinrecoverymode" /></p>
+<p>&nbsp;<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=stuckinrecoverymode&show_icons=true&theme=radical" alt="stuckinrecoverymode" width="53%" /></p>
  
