@@ -8,9 +8,9 @@
  - 👯 I’m looking to collaborate with Atakan Adiyaman.
  - I'm able to implement complex and efficient systems on Multi-Cloud Envs.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stuckinrecoverymode&repo=zabbix-6.2-ubuntu-22-04)](https://github.com/Stuckinrecoverymode/zabbix-6.2-ubuntu-22-04)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stuckinrecoverymode&repo=zabbix-6.2-ubuntu-22-04)](https://github.com/Stuckinrecoverymode/zabbix-6.2-ubuntu-22-04)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stuckinrecoverymode&repo=IT-ticketing-system)](https://github.com/Stuckinrecoverymode/IT-ticketing-system)
-
+-->
 ##
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stuckinrecoverymode&show_icons=true&theme=radical&locale=en&layout=compact" width="44%" alt="stuckinrecoverymode" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=stuckinrecoverymode&show_icons=true&theme=radical" alt="stuckinrecoverymode" width="50%" /></p>
